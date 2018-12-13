@@ -1,6 +1,6 @@
 
 
-#Report issue template:
+Report issue template:
 
 Description: CHANGEME Description of the problem or issue here.
 
